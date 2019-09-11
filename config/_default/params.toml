@@ -69,7 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "juan.castilla@uts.edu.au"
 phone = "+61 2 95142021"
-address = "Building 11, Room 221, School of Information, Systems and Modelling, University of Technology Sydney (UTS), Sydney, Australia"
+address = "Building 11, Room 201, School of Information, Systems and Modelling, University of Technology Sydney (UTS), Sydney, Australia"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = """Monday-Friday 9:00 to 17:00"""
