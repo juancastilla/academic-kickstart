@@ -19,33 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Nature Human Behaviour"
+  organization_url = ""
+  title = "Paper featured in cover of Nature journal (first author)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2017-09-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "CSIRO Land & Water"
+  organization_url = ""
+  title = "Early-career scientist award"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2018-01-01"
+  date_end = ""
   description = ""
 
+[[item]]
+    organization = "AusAID"
+    organization_url = ""
+    title = "Australian Leadership Award"
+    url = ""
+    certificate_url = ""
+    date_start = "2011-01-01"
+    date_end = "2012-07-01"
+    description = ""
+
+[[item]]
+    organization = "Australasian Groundwater Conference"
+    organization_url = ""
+    title = "Best early-career oral presentation"
+    url = ""
+    certificate_url = ""
+    date_start = "2015-10-01"
+    date_end = ""
+    description = ""
+
+[[item]]
+    organization = "University of New South Wales"
+    organization_url = ""
+    title = "University International Postgraduate Award (UIPA)"
+    url = ""
+    certificate_url = ""
+    date_start = "2012-07-01"
+    date_end = "2016-07-01"
+    description = ""
 +++

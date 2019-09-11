@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Juan Carlos Castilla-Rho
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,37 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Environmental and Participatory Systems Modelling
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Technology Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Socio-hydrology
+- Sustainability / Risk / Resilience
+- Computational social science
+- Environmental Modelling
+- Participatory Modelling
+- Agent-based Simulation
+- Management Flight Simulators
+- Scientific Computing (Python)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Agent-based modelling
+    institution: Universtity of New South Wales, Australia
+    year: 2017
+  - course: MEngSc in Water Resources
+    institution: Universtity of New South Wales, Australia
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BEngSc in Water and Environmental Engineering
+    institution: Pontificia Universidad Catolica de Chile
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -62,7 +67,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
@@ -70,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Juan is a transdisciplinary systems modeller working at the interface of water resource management and computational social science. He combines numerical modelling, systems thinking and complexity science to better understand the interactions between water and society. Juan is currently pioneering the use of interactive agent-based policy simulators to engage stakeholders in the exploration of future trajectories and improve policy decisions in socio-environmental dilemmas. He has extensive research experience in complex systems, hydrologic modelling, and water resources management, working for industry and government in Australia and overseas in some of driest regions in the world. Juan’s career goals are to lead interdisciplinary investigations on problems of social importance and help communities uncover win-win solutions to social, economic and environmental dilemmas
