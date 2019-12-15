@@ -24,7 +24,7 @@ interests:
 - Socio-hydrology
 - Computational social science
 - Decision intelligence
-- Decision making under deep uncertainty
+- Deep uncertainty
 - Water Resources Modelling
 - Participatory Modelling
 - Agent-based Simulation
@@ -34,12 +34,12 @@ interests:
 education:
   courses:
   - course: PhD in Agent-based Modelling
-    institution: Universtity of New South Wales, Australia
+    institution: University of New South Wales, Australia
     year: 2017
   - course: MEngSc in Water Resources
-    institution: Universtity of New South Wales, Australia
+    institution: University of New South Wales, Australia
     year: 2012
-  - course: BEng(Hons) in Civil Engineering (water and environmental)
+  - course: BEng in Civil Engineering (water and environmental)
     institution: Pontificia Universidad Catolica de Chile
     year: 2006
 
