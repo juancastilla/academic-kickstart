@@ -10,4 +10,3 @@ publication: "*2018 5th International Conference on Information and Communicatio
 tags: ["artificial intelligence", "Artificial Intelligence", "communication", "disaster", "disaster risk communication", "disasters", "early warning", "emergency management", "Floods", "information extraction", "learning (artificial intelligence)", "Machine learning", "machine learning techniques", "Monitoring", "risk management", "situational awareness", "Social networking (online)", "Support vector machines", "Training"]
 doi: "10.1109/ICT-DM.2018.8636380"
 ---
-

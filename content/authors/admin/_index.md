@@ -22,9 +22,10 @@ bio: My research interests include socio-hydrology, participatory modelling, and
 
 interests:
 - Socio-hydrology
-- Sustainability / Risk / Resilience
 - Computational social science
-- Environmental Modelling
+- Decision intelligence
+- Decision making under deep uncertainty
+- Water Resources Modelling
 - Participatory Modelling
 - Agent-based Simulation
 - Management Flight Simulators
@@ -32,13 +33,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Agent-based modelling
+  - course: PhD in Agent-based Modelling
     institution: Universtity of New South Wales, Australia
     year: 2017
   - course: MEngSc in Water Resources
     institution: Universtity of New South Wales, Australia
     year: 2012
-  - course: BEngSc in Water and Environmental Engineering
+  - course: BEng(Hons) in Civil Engineering (water and environmental)
     institution: Pontificia Universidad Catolica de Chile
     year: 2006
 
