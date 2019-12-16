@@ -10,5 +10,5 @@ subtitle = "Some of the amazing people I've had the privilege to work with"
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = []
+user_groups = ["Collaborators"]
 +++

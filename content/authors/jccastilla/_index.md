@@ -4,7 +4,7 @@ name: Juan Carlos Castilla-Rho
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jccastilla
 
 # Is this the primary user of the site?
 superuser: true

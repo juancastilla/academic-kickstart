@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Lecturer (Participatory Modelling)"
+  title = "Lecturer"
   company = "School of Information, Systems and Modelling, University of Technology Sydney (UTS)"
   company_url = "https://www.uts.edu.au/about/faculty-engineering-and-information-technology/information-systems-and-modelling"
   location = "Sydney, Australia"
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
 # description = """"""
 
 [[experience]]
-  title = "Research Fellow (Participatory Modelling)"
+  title = "Research Fellow"
   company = "SMART Infrastructure Facility, University of Wollongong (UOW)"
   company_url = "https://www.google.com/search?client=safari&rls=en&q=SMART+uow&ie=UTF-8&oe=UTF-8"
   location = "Wollongong, Australia"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 # description = """"""
 
 [[experience]]
-  title = "Research Scientist (Groundwater Modelling)"
+  title = "Research Scientist"
   company = "Land & Water, Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
   company_url = "https://www.csiro.au/en/Research/LWF"
   location = "Perth, Australia"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
 # description = """"""
 
 [[experience]]
-  title = "Research Engineer (Groundwater)"
+  title = "Research Engineer"
   company = "UNSW Water Research Laboratory (CSIRO)"
   company_url = "http://www.wrl.unsw.edu.au"
   location = "Sydney, Australia"
