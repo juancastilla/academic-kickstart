@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
 - Stakeholder engagement
@@ -53,5 +53,31 @@ email: ""
 user_groups:
 - PhD Students
 ---
+## Biography
 
-Marcos is a PhD student and Hydraulics Engineer from Pontificia Universidad Catolica de Chile, currently working on sustainable water resources management through a novel framework which couples: Socio-hydrology, Tele-coupling, Exploratory Modelling and Participatory Modelling. Marcos is currently part of an interdisciplinary team working in the Atacama Salt Flat Lake, developing a water resources management plan under the umbrella of one of the most ambitious political plans aimed to ensure sustainability of water resources in all 102 basins across the territory, and manage key natural resources such as lithium.
+My passion is to improve the way we share our remaining resources by making the rules smart, fair and transparent.
+
+I have worked on environmental water issues for many years, and have discovered many ways that technology and communities can help agencies to do their job of devising and regulating government policies better.  In many cases innovation is held back only by a lack of familiarity or imagination.  I want to build bridges between the regulators, ethical technologists and broader community to develop innovative approaches and tools to environmental and resource challenges.  Which is why I’m excited to be doing a PhD through the PERSWADE group at the University of Technology Sydney.
+
+## Professional experience
+
+I am an environmental hydrogeologist with over 35 years professional experience in a variety of technical and management roles, as well as a history of environmental activism.  Most of my projects have been in water/groundwater resource evaluation and protection of these resources from pollution and over-exploitation.
+
+I have extensive experience in developing and implementing innovative regulatory solutions to complex environmental and resource-sharing challenges, primarily as a regulator or consultant.
+
+## Research interests
+- Application of big and open-source data analysis tools to solve environmental challenges
+- Identifying which aspects of participatory modelling stakeholders find most helpful in better understanding complex issues and planning applications
+- Developing standards for Records of Engagement, to record the processes, outcomes and key learnings from participatory modelling applications.
+
+## Current project
+
+My PhD project is focused on evaluating participatory modelling in stakeholder engagement applications.  By several strokes of good luck and a fair bit of legwork, we have the opportunity to examine how modelling can support a live stakeholder engagement process in a major development, seeking future NSW planning approval.
+
+As well as being an important and innovative application of collaborative modelling within a real planning approval process, the case study will provide opportunities to progressively monitor and assess stakeholders’ and our own values and beliefs as the engagement process unfolds.
+
+The project seeks to implement and measure the success of a range of participatory modelling processes to provide effective stakeholder engagement within an Australian planning approval context.  The engagement study will be undertaken by the PhD team using cutting-edge participatory modelling tools with social-science theory.
+
+Importantly, the results will be progressively captured and presented in a prototype Record of Engagement (RoE), [Glynn, Shapiro and Voinov, 2018 http://hdl.handle.net/10453/132420] to support the dissemination of participatory modelling project processes and results. With the benefit of this case study, new standards will be developed to guide future RoEs and stakeholder engagement frameworks.
+
+The project is being supported by the Mining & Energy Related Councils Association of NSW (MERC), a well-informed and influential stakeholder group whose interests are directly and/or indirectly affected by new and existing mining and energy proposals.

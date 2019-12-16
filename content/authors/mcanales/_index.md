@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include socio-hydrology, participatory modelling, and computational social science.
+bio:
 
 interests:
 - Socio-hydrology
