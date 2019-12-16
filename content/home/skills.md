@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Skills and Tools"
-subtitle = "I use in my research, teaching, supervision, and training"
+subtitle = "I combine and use in my research, teaching, supervision, and training"
 
 # Showcase personal skills or business features.
 #
