@@ -28,24 +28,44 @@ date_format = "Jan 2006"
   date_end = "2019-07-01"
   description = ""
 
-  [[item]]
-    organization = "FIC-R Regional Government O'Higgins Region, Chile"
-    organization_url = ""
-    title = "SimRapel: Participatory modelling for water governance in the Rapel Basin — $400,000 Principal Investigator (with CSIRO-Chile)"
-    url = ""
-    certificate_url = ""
-    date_start = "2018-03-01"
-    date_end = "2020-03-01"
-    description = ""
+[[item]]
+  organization = "FIC-R Regional Government O'Higgins Region, Chile"
+  organization_url = ""
+  title = "SimRapel: Participatory modelling for water governance in the Rapel Basin — AU$400,000 Principal Investigator (with CSIRO-Chile)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = "2020-03-01"
+  description = ""
 
-    [[item]]
-      organization = "University of Wollongong"
-      organization_url = ""
-      title = "UOW UIC International Links Grants Scheme — $12,000 Principal Investigator (with Pontificia Universidad Catolica de Chile)"
-      url = ""
-      certificate_url = ""
-      date_start = "2018-03-01"
-      date_end = "2020-03-01"
-      description = ""
+[[item]]
+  organization = "University of Wollongong"
+  organization_url = ""
+  title = "UOW UIC International Links Grants Scheme — AU$12,000 Principal Investigator (with Pontificia Universidad Catolica de Chile)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-03-01"
+  date_end = "2020-03-01"
+  description = ""
+
+[[item]]
+  organization = "University of Technology Sydney"
+  organization_url = ""
+  title = "KTP Visiting Fellowship (Host)— AU$11,000 (with Prof. Sebastian Vicuña, Pontificia Universidad Catolica de Chile)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-02-01"
+  date_end = "2020-03-01"
+  description = ""
+
+[[item]]
+  organization = "CORFO (Department of Primary Industries, Chile)"
+  organization_url = ""
+  title = "Integrated Hydrologic Modelling Tool for the Salar de Atacama Basin — Principal Investigator AU$110,000 (with Pontificia Universidad Catolica de Chile)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = "2021-04-01"
+  description = ""
 
 +++

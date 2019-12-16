@@ -16,6 +16,8 @@ role: Lecturer in Environmental and Participatory Systems Modelling
 organizations:
 - name: University of Technology Sydney
   url: ""
+- name: Founder, Sim4Action
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include socio-hydrology, participatory modelling, and computational social science.
@@ -72,8 +74,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+
 ---
 
 Juan is a transdisciplinary systems modeller working at the interface of water resource management and computational social science. He combines numerical modelling, systems thinking and complexity science to better understand the interactions between water and society. Juan is currently pioneering the use of interactive agent-based policy simulators to engage stakeholders in the exploration of future trajectories and improve policy decisions in socio-environmental dilemmas. He has extensive research experience in complex systems, hydrologic modelling, and water resources management, working for industry and government in Australia and overseas in some of driest regions in the world. Juan’s career goals are to lead interdisciplinary investigations on problems of social importance and help communities uncover win-win solutions to social, economic and environmental dilemmas

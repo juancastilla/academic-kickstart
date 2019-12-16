@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidate
+role: PhD candidate (UTS-PUC dual degree)
 
 # Organizations/Affiliations
 organizations:
-- name: Pontificia Universidad Catolica de Chile
+- name: Pontificia Universidad Catolica de Chile (PUC)
   url: ""
-- name: University of Technology Sydney
+- name: University of Technology Sydney (UTS)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -24,12 +24,12 @@ bio: My research interests include socio-hydrology, participatory modelling, and
 
 interests:
 - Socio-hydrology
+- Hydroinformatics
+- Bibliometric analysis
+- Python
 
 education:
   courses:
-  - course: MEngSc in Water Resources
-    institution: University of New South Wales, Australia
-    year: 2012
   - course: BEng(Hons) in Civil Engineering (water and environmental)
     institution: Pontificia Universidad Catolica de Chile
     year: 2006
@@ -54,8 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- PhD Students
 ---
 
 Marcos is a PhD student and Hydraulics Engineer from Pontificia Universidad Catolica de Chile, currently working on sustainable water resources management through a novel framework which couples: Socio-hydrology, Tele-coupling, Exploratory Modelling and Participatory Modelling. Marcos is currently part of an interdisciplinary team working in the Atacama Salt Flat Lake, developing a water resources management plan under the umbrella of one of the most ambitious political plans aimed to ensure sustainability of water resources in all 102 basins across the territory, and manage key natural resources such as lithium.
