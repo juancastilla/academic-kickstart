@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Collaborators"
-subtitle = "Some of the amazing people I've had the privilege to work with"
+subtitle = "Some of the amazing people I have the privilege to work with"
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.

@@ -4,13 +4,13 @@ name: Juan Carlos Castilla-Rho
 
 # Username (this should match the folder name)
 authors:
-- jccastilla
+- admin
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Lecturer in Environmental and Participatory Systems Modelling
+role: Lecturer </br>(Environmental Modelling and Decision Intelligence)
 
 # Organizations/Affiliations
 organizations:
