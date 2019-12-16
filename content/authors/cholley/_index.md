@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: Professor </br> Environmental Law
 
 # Organizations/Affiliations
 organizations:
