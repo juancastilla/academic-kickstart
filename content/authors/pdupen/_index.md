@@ -1,38 +1,35 @@
 ---
 # Display name
-name: Marcos Canales Piccolo
+name: Pete Dupen
 
 # Username (this should match the folder name)
 authors:
-- mcanales
+- pdupen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD candidate (UTS-PUC dual degree)
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Pontificia Universidad Catolica de Chile (PUC)
-  url: ""
 - name: University of Technology Sydney (UTS)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include socio-hydrology, participatory modelling, and computational social science.
+bio: 
 
 interests:
-- Socio-hydrology
-- Hydroinformatics
-- Bibliometric analysis
-- Python
+- Stakeholder engagement
+- Planning and approval processes
+- Participatory modelling
 
 education:
   courses:
-  - course: BEng(Hons) in Civil Engineering (water and environmental)
-    institution: Pontificia Universidad Catolica de Chile
-    year: 2006
+  - course:
+    institution:
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
