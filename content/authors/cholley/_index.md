@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-- Climate change adaptation
-- Water resources management
-- Public policy
+- Water/Environmental Law
+- Water/Environmental Governance
+- Natural Resource Management
 
 education:
   courses:
