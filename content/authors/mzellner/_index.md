@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor </br> Urban Planning and Policy
+role: Associate Professor, Urban Planning and Policy
 
 # Organizations/Affiliations
 organizations:

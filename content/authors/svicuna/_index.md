@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor </br> Water Resource Management
+role: Associate Professor, Water Resource Management
 
 # Organizations/Affiliations
 organizations:
