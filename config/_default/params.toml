@@ -5,7 +5,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "Minimal"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -69,10 +69,9 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "juan.castilla@uts.edu.au"
 phone = "+61 2 95142021"
-address = "Building 11, Room 201, School of Information, Systems and Modelling, University of Technology Sydney (UTS), Sydney, Australia"
-
+address = {street = "UTS Building 11", city = "Sydney", region = "NSW", postcode = "2007", country = "Australia", country_code = "AU"}
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday-Friday 9:00 to 17:00"""
+office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -102,11 +101,8 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 3
-map_api_key = ""
-latitude = "-33.883991"
-longitude = "151.199243"
-zoom = 16
+
+coordinates = {latitude = "-33.883991", longitude = "151.199243"}
 
 # Address line delimiter
 # Popular separators are ", " (comma), "<br>" (new line), " " (space)
@@ -193,3 +189,38 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+# Comments.
+[comments]
+  # Comment provider:
+  #   0: Disabled
+  #   1: Disqus (https://disqus.com)
+  #   2: Commento (https://commento.io)
+  engine = 0
+
+  # Which page types are commentable?
+  commentable = {page = true, post = true, docs = true}
+
+  # Configuration of Disqus.
+  [comments.disqus]
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = true  # Show comment count in page header? (true/false)
+
+[map]
+  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   0: No map
+  #   1: Google Maps
+  #   2: OpenStreetMap (Mapnik)
+  #   3: OpenStreetMap (Mapbox)
+  engine = 2
+  api_key = ""
+  zoom = 15
