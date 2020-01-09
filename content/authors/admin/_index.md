@@ -24,9 +24,9 @@ bio: My research interests include socio-hydrology, participatory modelling, and
 
 interests:
 - Socio-hydrology
-- Computational social science
 - Decision intelligence
 - Deep uncertainty
+- Computational social science
 - Water Resources Modelling
 - Participatory Modelling
 - Agent-based Simulation
