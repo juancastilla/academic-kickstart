@@ -1,6 +1,6 @@
 ---
 title: SimCopiapo
-summary: Overcoming water management stalemate in the Chilean Copiapo Basin using collaborative modelling
+summary: Overcoming water management stalemate in the Chilean Copiapo Basin with the help of collaborative modelling
 tags:
 - Socio-hydrology
 - Integrated water resources management
