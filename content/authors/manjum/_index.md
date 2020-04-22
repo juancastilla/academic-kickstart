@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- PhD
 ---
 
 Madiha is currently doing doctoral research at the School of Information, Systems and Modelling at the University of Technology Sydney (Australia). Her research domain is “Integrating Mental and Computer Simulation models; Reconstructing Mental models through a guided simulation.”

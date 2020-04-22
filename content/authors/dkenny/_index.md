@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- PhD
 ---
 
 Daniel graduated from Illinois Wesleyan University in the USA with a Bachelor’s degree in Environmental Studies and Hispanic Studies, where he did honours research on the US Farm Bill and the alternative food movement. After graduating, he worked in the Governor of Illinois’ Office of Legislative Affairs, before moving to Australia to complete his Master’s of Environmental Management and Development at the Australian National University. He is now a PhD student at the University of Technology Sydney, focusing on how behavioural science and simulation modelling can    be used to drive long-term sustainable behaviours with farming stakeholders in socio-environmental systems.

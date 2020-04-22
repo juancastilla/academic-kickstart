@@ -11,9 +11,7 @@ subtitle = "Students that I’ve mentored as their advisor and/or are currently 
 [content]
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = ["PhD Students",
-               "Capstone Students",
-               "Alumni"]
+user_groups = ["PhD", "Masters", "Capstone", "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)

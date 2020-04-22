@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- PhD Students
+- PhD
 ---
 
 Marcos is a PhD student and Hydraulics Engineer from Pontificia Universidad Catolica de Chile, currently working on sustainable water resources management through a novel framework which couples: Socio-hydrology, Tele-coupling, Exploratory Modelling and Participatory Modelling. Marcos is currently part of an interdisciplinary team working in the Atacama Salt Flat Lake, developing a water resources management plan under the umbrella of one of the most ambitious political plans aimed to ensure sustainability of water resources in all 102 basins across the territory, and manage key natural resources such as lithium.
