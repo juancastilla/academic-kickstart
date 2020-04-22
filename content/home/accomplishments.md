@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Australian Research Council (ARC)"
   organization_url = ""
-  title = "Co-CI ARC Discovery Project - Non-urban water governance: rethinking compliance and enforcement (DP190101584)"
+  title = "ARC Discovery Project - Non-urban water governance: rethinking compliance and enforcement (Chief Investigator, DP190101584)"
   url = ""
   certificate_url = ""
   date_start = "2020-04-01"
