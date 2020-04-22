@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Australian Research Council (ARC)"
+  organization_url = ""
+  title = "$384,000 — Non-urban water governance: rethinking compliance and enforcement — Chief Investigator (with UNSW and UC)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = "2022-04-01"
+  description = ""
+
+[[item]]
   organization = "FIC-R Regional Government Atacama Region, Chile"
   organization_url = ""
   title = "$300,000 — SimCopiapo: Participatory modelling for water management in the Copiapo Basin — Principal Investigator (with CSIRO-Chile)"
